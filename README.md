@@ -1,4 +1,4 @@
-# 🍵 Matcha Mondays: Pop-Up AI Co-Pilot
+# 🍵 Matcha Cart: Pop-Up AI Co-Pilot
 
 An interactive internal operations and logistics dashboard built using **Python**, **Streamlit**, and the **Google GenAI SDK** to optimize inventory demand constraints and supply chains for a high-energy beverage pop-up venture.
 
